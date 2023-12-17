@@ -85,7 +85,7 @@
     <distributionManagement>
         <repository>
             <id>bebendorf</id>
-            <url>ftp://bebendorf.eu/</url>
+            <url>ftps://bebendorf.eu/</url>
         </repository>
     </distributionManagement>
     <packaging>jar</packaging>
